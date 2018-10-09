@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository creates the initial stages of a repository so you can view what you are about to committ to version control and what you are not. You need to do it so you dont accidentally upload the wrong file(s).
