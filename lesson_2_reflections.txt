@@ -5,3 +5,7 @@ Initializing a repository creates the initial stages of a repository so you can 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Gives you a bit more leeway and an extra buffer against mistakes. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Because the staging area is structured in such a way to allow for one logical change. 
