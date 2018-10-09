@@ -9,3 +9,7 @@ Gives you a bit more leeway and an extra buffer against mistakes.
 How can you use the staging area to make sure you have one commit per logical change?
 
 Because the staging area is structured in such a way to allow for one logical change. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Whenever you are working on a new feature and to keep your project organized. 
